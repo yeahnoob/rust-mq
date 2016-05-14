@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Topic","FIXME: replace String with &str"]],"struct":[["TopicPath",""]],"trait":[["ToTopicPath",""]]});
